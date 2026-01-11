@@ -1,0 +1,5 @@
+{
+  "name": "ProMDM - Protiviti ETL App",
+  "description": "A high-performance SAP ETL tool for migrating Material Master data from legacy SAP systems to S/4HANA with robust mapping, validation, versioning, and a 3-level approval workflow.",
+  "requestFramePermissions": []
+}
